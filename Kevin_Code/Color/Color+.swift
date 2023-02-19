@@ -2,7 +2,7 @@
 //  Color+.swift
 //  Kevin_Code
 //
-//  Created by Kiran K Sibi on 20/02/23.
+//  Created by Kevin on 20/02/23.
 //
 
 import SwiftUI
